@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ghost_bg">#07090A</color>
+    <color name="ghost_surface">#0F1417</color>
+    <color name="ghost_line">#1E282C</color>
+    <color name="ghost_text">#E7EFEE</color>
+    <color name="ghost_muted">#8FA0A6</color>
+    <color name="ghost_accent">#3FE0A8</color>
+    <color name="ghost_accent_bright">#3FE0A8</color>
+    <color name="ghost_error">#FF6B6B</color>
+    <color name="ink">#07090A</color>
+    <color name="ink_raised">#0F1417</color>
+    <color name="ink_line">#1E282C</color>
+    <color name="ink_text">#E7EFEE</color>
+    <color name="ink_muted">#8FA0A6</color>
+    <color name="paper">#F2F6F5</color>
+    <color name="paper_raised">#FFFFFF</color>
+    <color name="paper_line">#D5DFDC</color>
+    <color name="paper_text">#0B1214</color>
+    <color name="paper_muted">#5C6B70</color>
+</resources>
